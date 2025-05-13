@@ -2,7 +2,8 @@
 
 ## 📍 Problem Description
 
-https://www.kaggle.com/competitions/rossmann-store-sales/data
+https://www.kaggle.com/competitions/rossmann-store-sales/data 
+
 Rossmann operates over 3,000 drug stores across 7 European countries. In this project, I take on the challenge of forecasting daily sales for 1,115 stores located in Germany, over a six-week period.
 
 Sales are influenced by a wide range of factors, including:
